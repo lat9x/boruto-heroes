@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BorutoHeroes</string>
+
+    <string name="app_logo">App Logo</string>
+
+    <string name="greetings">Greetings</string>
+    <string name="greetings_description">Are you a Boruto fan? If so, then we have a great news for you!</string>
+    <string name="explore">Explore</string>
+    <string name="explore_description">Find your favourite heroes and learn some of the things that you didn\'t know abut</string>
+    <string name="power">Power</string>
+    <string name="power_description">Check out your hero\'s power and see how much they are strong comparing to others</string>
+    <string name="finish_on_boarding_pages">Finish</string>
+
+    <string name="search_heroes">Search Heroes</string>
+    <string name="star_path">M14,21.288,21.416,26l-1.968-8.88L26,11.145l-8.628-.771L14,2l-3.372,8.375L2,11.145,8.552,17.12,6.584,26Z</string>
+    <string name="hero_image">Hero Image</string>
+
+    <string name="internet_down">Internet Unavailable</string>
+    <string name="server_down">Server Unavailable</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="error_image">Error Image</string>
+    <string name="search_here">Search here...</string>
+    <string name="search_icon">Search Heroes Icon</string>
+    <string name="close_search_screen">Close Search Screen</string>
+    <string name="find_your_favorite_heroes">Find your favorite heroes</string>
+    <string name="info_box_icon">Info Box Icon</string>
+    <string name="family">Family</string>
+    <string name="month">Month</string>
+    <string name="birthday">Birthday</string>
+    <string name="about">About</string>
+    <string name="abilities">Abilities</string>
+    <string name="nature_types">Nature Types</string>
+    <string name="close_details_screen">Close Details Screen</string>
+</resources>
